@@ -1,5 +1,4 @@
-# csc322
-CSC 322 Software Engineering Lab
+# CSC 322 Software Engineering Lab
 
 # Software Engineering Lab (CSC 322)
 # Teaching Assistant: Isatou Sanneh
