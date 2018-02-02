@@ -16,6 +16,6 @@
 
 [Coding Turk System](https://github.com/isatou/csc322/blob/master/Specification%20for%20a%20Coding%20Turk%20System.pdf)
 
-[Warehouse Order Management System](Systemhttps://github.com/isatou/csc322/blob/master/Specification%20for%20a%20Warehouse%20Order%20Management%20System%20.pdf)
+[Warehouse Order Management System](https://github.com/isatou/csc322/blob/master/Specification%20for%20a%20Warehouse%20Order%20Management%20System%20.pdf)
 
 [E-book Sharing System](https://github.com/isatou/csc322/blob/master/Specification%20for%20an%20E-book%20Sharing%20System.pdf)
