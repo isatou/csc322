@@ -22,4 +22,4 @@
 
 ## Handouts
 
-[Requirements Identification] (https://github.com/isatou/csc322/blob/master/Requirements%20Identification.pdf)
+[Requirements Identification](https://github.com/isatou/csc322/blob/master/Requirements%20Identification.pdf)
