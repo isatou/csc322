@@ -22,9 +22,10 @@
 
 ## Handouts
 
-[Requirements Identification](https://github.com/isatou/csc322/blob/master/Requirements%20Identification.pdf)
+[Requirements Identification Handout](https://github.com/isatou/csc322/blob/master/Requirements%20Identification.pdf)
 
 [Use Case Handout](https://github.com/isatou/csc322/blob/master/CSC%20322%20%20-%20%20Use%20Case%20Modeling.pdf)
+
 [Class Diagram Handout](https://github.com/isatou/csc322/blob/master/CSC%20322%20-%20%20UML%20Class%20Diagram.pdf)
 
 ## Solutions
