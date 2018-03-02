@@ -25,3 +25,18 @@
 [Requirements Identification](https://github.com/isatou/csc322/blob/master/Requirements%20Identification.pdf)
 
 [Use Case](https://github.com/isatou/csc322/blob/master/CSC%20322%20%20-%20%20Use%20Case%20Modeling.pdf)
+
+
+## Solutions
+
+[Use Case- Task 1 (ATM)](https://github.com/isatou/csc322/blob/master/ATM%20Use%20Case.png)
+
+[Use Case- Task 2 (Use Case Relationships)](https://github.com/isatou/csc322/blob/master/Use%20Case%20Relationships.pdf)
+
+[Use Case- Task 3 (Mail Order System)](https://github.com/isatou/csc322/blob/master/Mail%20Order%20Use%20Case.pdf)
+
+
+## Use Case Examples
+[https://creately.com/diagram-community/examples/t/use-case](https://creately.com/diagram-community/examples/t/use-case)
+
+[http://www.uml-diagrams.org/use-case-diagrams-examples.html](http://www.uml-diagrams.org/use-case-diagrams-examples.html)
