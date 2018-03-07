@@ -43,6 +43,6 @@
 [http://www.uml-diagrams.org/use-case-diagrams-examples.html](http://www.uml-diagrams.org/use-case-diagrams-examples.html)
 
 ## Phase I Report: Software Requirements Specification
-Sample Report (https://github.com/isatou/csc322/blob/master/Sample%20Report.pdf)
+[Sample Report](https://github.com/isatou/csc322/blob/master/Sample%20Report.pdf)
 
-Report Template (https://github.com/isatou/csc322/blob/master/Sample%20Report.pdf)
+[Report Template](https://github.com/isatou/csc322/blob/master/Sample%20Report.pdf)
