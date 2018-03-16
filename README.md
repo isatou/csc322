@@ -45,4 +45,4 @@
 ## Phase I Report: Software Requirements Specification
 [Sample Report](https://github.com/isatou/csc322/blob/master/Sample%20Report.pdf)
 
-[Report Template](https://github.com/isatou/csc322/blob/master/Sample%20Report.pdf)
+[Report Template](http://www-cs.engr.ccny.cuny.edu/~csjie/322/spec_sample.pdf)
