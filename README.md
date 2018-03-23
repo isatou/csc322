@@ -28,6 +28,8 @@
 
 [Class Diagram Handout](https://github.com/isatou/csc322/blob/master/CSC%20322%20-%20%20UML%20Class%20Diagram.pdf)
 
+[Sequence Diagram Handout](https://github.com/isatou/csc322/blob/master/CSC%20322-%20Sequence%20Diagram.pdf)
+
 ## Solutions
 
 [Use Case- Task 1 (ATM)](https://github.com/isatou/csc322/blob/master/ATM%20Use%20Case.png)
