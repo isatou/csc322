@@ -30,6 +30,8 @@
 
 [Sequence Diagram Handout](https://github.com/isatou/csc322/blob/master/CSC%20322-%20Sequence%20Diagram.pdf)
 
+[Collaboration Diagram](https://github.com/isatou/csc322/blob/master/CSC%20322%20-%20Collaboration%20Diagram%20(1).pdf)
+
 ## Solutions
 
 [Use Case- Task 1 (ATM)](https://github.com/isatou/csc322/blob/master/ATM%20Use%20Case.png)
