@@ -50,3 +50,6 @@
 [Sample Report](https://github.com/isatou/csc322/blob/master/Sample%20Report.pdf)
 
 [Report Template](http://www-cs.engr.ccny.cuny.edu/~csjie/322/spec_sample.pdf)
+
+## Phase 2 Report
+[Sample Report](https://github.com/isatou/csc322/blob/master/CSC322_PV%26J_DesignReport%20(1).pdf)
