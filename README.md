@@ -32,7 +32,7 @@
 
 [Collaboration Diagram Handout](https://github.com/isatou/csc322/blob/master/CSC%20322%20-%20Collaboration%20Diagram%20(1).pdf)
 
-[Entity Relationship Diagram Handout] (https://github.com/isatou/csc322/blob/master/CSc%20322%20-%20Entity%20Relationship%20Diagram%20(1).pdf)
+[Entity Relationship Diagram Handout](https://github.com/isatou/csc322/blob/master/CSc%20322%20-%20Entity%20Relationship%20Diagram%20(1).pdf)
 
 ## Solutions
 
